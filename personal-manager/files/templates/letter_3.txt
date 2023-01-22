@@ -1,6 +1,6 @@
 E aíí [NAME],
 
-É o teu aniversário! tenha um ótimo dia viu?!
+É o teu aniversário! Aproveitaaa [HANDLING]!!!
 
 [QUOTE]
 Todo o meu carinho,

@@ -1,6 +1,6 @@
 Heyyyy [NAME],
 
-Feliz aniversário! Tenha um ótimo dia hoje e coma muito bolo! kkkkk
+Feliz aniversário! Tenha um ótimo dia hoje e coma muito bolo [HANDLING]! kkkkk
 
 [QUOTE]
 Com carinho,

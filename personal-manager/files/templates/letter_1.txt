@@ -1,6 +1,6 @@
-Olááá [NAME],
+Hellooo [NAME],
 
-Feliz aniversárioooo!
+Feliz aniversárioooo [HANDLING]!
 
 [QUOTE]
 Desejo o melhor pra ti SEMPRE!
